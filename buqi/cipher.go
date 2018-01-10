@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-// Password 密码类型
+// Password 密码类型 
 type Password [256]byte
 
 // Cipher 密码编码解码
