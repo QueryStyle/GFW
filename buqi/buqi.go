@@ -24,7 +24,7 @@ func init() {
 	rand.Seed(time.Now().Unix())
 }
 
-// Start 启动
+// Start 启动 
 func Start() (config *Config) {
 	config = &Config{}
 	if !config.ReadConfig() {
