@@ -1,7 +1,7 @@
 package main
 
 import (
-	"https://github.com/QueryStyle/GFW/buqi"
+	"github.com/QueryStyle/GFW/buqi"
 	"log"
 	"net"
 )
